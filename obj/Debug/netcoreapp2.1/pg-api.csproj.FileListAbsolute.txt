@@ -1,0 +1,14 @@
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/bin/Debug/netcoreapp2.1/pg-api.deps.json
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/bin/Debug/netcoreapp2.1/pg-api.runtimeconfig.json
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/bin/Debug/netcoreapp2.1/pg-api.runtimeconfig.dev.json
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/bin/Debug/netcoreapp2.1/pg-api.dll
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/bin/Debug/netcoreapp2.1/pg-api.pdb
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.csprojAssemblyReference.cache
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.csproj.CoreCompileInputs.cache
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.RazorAssemblyInfo.cache
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.RazorAssemblyInfo.cs
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.AssemblyInfoInputs.cache
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.AssemblyInfo.cs
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.RazorTargetAssemblyInfo.cache
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.dll
+/Users/sreaves/projects/experiment/csharp-playground/pg-api/obj/Debug/netcoreapp2.1/pg-api.pdb
