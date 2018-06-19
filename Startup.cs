@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using MyWebApi.Models;
+using MyWebApi.EntityFramework;
 
 namespace pg_api
 {
@@ -28,7 +28,7 @@ namespace pg_api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddEntityFrameworkNpgsql().AddDbContext<MyWebApiContext>(opt => 
+            services.AddEntityFrameworkNpgsql().AddDbContext<PostgreSQLDBContext>(opt => 
                 opt.UseNpgsql(Configuration.GetConnectionString("MyWebApiConnection")));
         }
 
